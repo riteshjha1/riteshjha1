@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RITESH JHA</h1>
 <h3 align="center">Self taught developer passionate about Machine learning, data science & open-source development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshjha1" alt="riteshjha1" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/riteshjha_" target="blank"><img src="https://img.shields.io/twitter/follow/riteshjha_?logo=twitter&style=for-the-badge" alt="riteshjha_" /></a> </p>
 
