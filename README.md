@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RITESH JHA</h1>
 <h3 align="center">Self taught developer passionate about Machine learning, data science & open-source development.</h3>
-<a href="" target="blank"><img align="center" src="https://github.com/riteshjha1/Banner_img/blob/dbf9e22b1f3b005b9a46f788b7df27f565f56e02/shutterstock_594103883.jpg" alt="" height="500" width="1000" /></a>
+
 
 
 
