@@ -24,10 +24,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/riteshjha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="riteshjha_" height="30" width="40" /></a>
-<a href="https://twitter.com/riteshjha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="riteshjha_" height="30" width="40" /></a>
+<a href="https://twitter.com/riteshjha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riteshjha_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riteshjha1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riteshjha1/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rjriteshjha86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="rjriteshjha86" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rjriteshjha86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="rjriteshjha86/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rjriteshjha86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rjriteshjha86" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rjriteshjha86/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rjriteshjha86/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
