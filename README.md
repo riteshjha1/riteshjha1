@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **AI Virtual Mouse**
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 👯 I’m looking to collaborate on **C++ or Python open-source Projects**
 
