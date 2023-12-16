@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/riteshjha_" target="blank"><img src="https://img.shields.io/twitter/follow/riteshjha_?logo=twitter&style=for-the-badge" alt="riteshjha_" /></a> </p>
 
-- 🔭 I’m currently working on **AI Virtual Mouse**
+- 🔭 I’m currently working on **Java Based Framework for my Org**
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **C++ or Python open-source Projects**
+- 👯 I’m looking to collaborate on **Java or Python open-source Projects**
 
-- 🤝 I’m looking for help with **learning ML**
+- 🤝 I’m looking for resources for **learning LLD/HLD**
 
 - 📝 I regularly write articles on [https://dev.to/riteshjha_](https://dev.to/riteshjha_)
 
-- 💬 Ask me about **Python, C++, ML & Web devlopment**
+- 💬 Ask me about **Python, JAVA, ML & Web devlopment**
 
 - 📫 How to reach me **rjriteshjha86@gmail.com**
 
